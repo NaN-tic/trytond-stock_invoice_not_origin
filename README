@@ -1,0 +1,20 @@
+nantic_stock_invoice_not_origin
+===============================
+
+The stock_invoice_not_origin module of the Tryton application platform.
+
+Installing
+----------
+
+See INSTALL
+
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
